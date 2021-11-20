@@ -37,13 +37,6 @@ public class LoginPage {
 		this.clickSubmit();
 		Thread.sleep(1000);
 	}
-//	public void login(String strUserName, String strPassword) {
-//		
-//        this.setUserName(strUserName);
-//        this.setPassword(strPassword);
-//        this.clickSubmit();
-//    }
-	
 	
 }
 	
